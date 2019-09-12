@@ -4,7 +4,7 @@
 *.iml
 
 # comentário
- package-lock.json
+package-lock.json
 
  # comentário
- node_modules/
+node_modules/
